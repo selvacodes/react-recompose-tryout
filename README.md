@@ -1,5 +1,5 @@
-# react-webpack
-Simplified environmental build processes with react and webpack
+# react-recompose-tryout
+Trying out reach-recompose-magic
 
 ## Requirements
 Node >= v4.0.0
